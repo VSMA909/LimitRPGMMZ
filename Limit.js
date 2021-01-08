@@ -1,20 +1,3 @@
-//=============================================================================
-// RPG Maker MZ - Limit v1.0
-//=============================================================================
-
-/*
-MIT License
-
-Copyright (c) [year] [fullname]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -37,12 +20,12 @@ SOFTWARE.
  * classes the trait "Add Skill Type Limit". Finally make new skills with
  * the Skill Type Limit and add them to your classes.
  * 
- * The constante "limit skill name"  set name of the limit's skill. If you change 
- * this constante you must also change the name of the Skill Types in the 
+ * The parameter "limit skill name"  set name of the limit's skill. If you change 
+ * this parameter you must also change the name of the Skill Types in the 
  * Database.
  * 
- * The constant "limit basic term" set the term of the Limit in the GUI. You
- * can change the constant without any consequence.
+ * The parameter "limit basic term" set the term of the Limit in the GUI. You
+ * can change the parameter without any consequence.
  * 
  * for understand the color format of limit gauge see: https://htmlcolorcodes.com/
  * 
